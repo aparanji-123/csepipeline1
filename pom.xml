@@ -27,9 +27,10 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    <groupId>org.sonarsource.scanner.maven</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.9.1.2184</version>
+    <groupId>javax.servlet</groupId>
+    <artifactId>servlet-api</artifactId>
+    <version>3.0-alpha-1</version>
+    <scope>provided</scope>
 </dependency>
   </dependencies>
 
